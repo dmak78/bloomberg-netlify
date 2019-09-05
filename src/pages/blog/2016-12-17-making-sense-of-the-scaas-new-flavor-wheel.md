@@ -10,6 +10,11 @@ featuredimage: /img/flavor_wheel.jpg
 tags:
   - flavor
   - tasting
+commonactivities:
+  - level: 0
+    name: Test 1
+  - level: 1
+    name: Test 2
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
