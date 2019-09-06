@@ -15,6 +15,10 @@ commonactivities:
     name: Test 1
   - level: 1
     name: Test 2
+related:
+  - A beginners’ guide to brewing with Chemex
+  - Sdgsdfs
+  - Test
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
